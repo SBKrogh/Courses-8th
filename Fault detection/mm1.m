@@ -78,6 +78,8 @@ R7 = 1 - (1-serie)*(1-R)
 
 % 8) Repeat the above (question 7) parallel components 3, 4, and 5 
 % are required. (binomial case)
+% NOTE: Go to the document to check if the solution to exe 8) is correct!
+% We don't include the probability of all the components work only two
 
 X = 2;
 N = 3;
